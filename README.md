@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohammedsouleymane
 - 👀 I’m interested in ⚽ football(FCB)
 - 🌱 I’m currently learning Applied CS
-- 💞️ I’m looking to collaborate on c#, python
+- 💞️ I’m looking to collaborate on c#, python, java
 - 📫 How to reach me discord: GeeGee#8924
 
 <!---
